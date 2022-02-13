@@ -1,6 +1,6 @@
 # Nubank Dark Figma
 
-Projeto Nubank Dakt App - Flutter
+Projeto Nubank Dark App - Flutter
 
 Este é um projeto desenvolvido em Flutter para aprimorar o desenvolvimento de UI a partir de um design do Figma.
 
