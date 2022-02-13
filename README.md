@@ -35,7 +35,7 @@ O Nubank App - Flutter é um projeto pessoal para desenvolvimento da UI criada p
 ## Aprendizado:
 * Dart
 * Flutter
-* Principais Widgets (Container, Collum, Row, Text, SizedBox)
+* Principais Widgets (Container, Columm, Row, Text, SizedBox)
 * Future.delayed
 
 ## Próximos passos:
