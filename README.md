@@ -6,7 +6,7 @@ Este é um projeto desenvolvido em Flutter para aprimorar o desenvolvimento de U
 
 ## Descrição
 
-O Will Bank App - Flutter é um projeto pessoal para desenvolvimento da UI criada pelo designer de UI/UX Felipe Mota no Figma.
+O Nubank App - Flutter é um projeto pessoal para desenvolvimento da UI criada pelo designer de UI/UX Felipe Mota no Figma.
 
 <p align="center">
     <img width="300" height="625" src="https://firebasestorage.googleapis.com/v0/b/me-guia-tracuateua.appspot.com/o/Nubank%20App%2Fnu01.png?alt=media&token=884887cc-5909-42b0-b3a9-c684ea689922">
